@@ -1,0 +1,22 @@
+{
+  "name": "chartjstest1",
+  "version": "1.0.0",
+  "description": "Study how to use chart.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlySnowIII/chartjstest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlySnowIII/chartjstest1/issues"
+  },
+  "homepage": "https://github.com/FlySnowIII/chartjstest1#readme",
+  "dependencies": {
+    "chart.js": "^2.7.1"
+  }
+}
